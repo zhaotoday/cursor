@@ -6,5 +6,6 @@
 - [cursor 使用经验分享](https://juejin.cn/post/7440482461762601010)
 
 #### 开源
+- [cursor.directory](https://cursor.directory/)
 - [cursorless](https://github.com/cursorless-dev/cursorless)
 - [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
