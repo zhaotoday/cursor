@@ -5,6 +5,7 @@
 #### 文章
 - [cursor 使用经验分享](https://juejin.cn/post/7440482461762601010)
 - [Cursor Rules 让 Cursor AI 代码生成更智能、更高效，效率再次飞升！](https://juejin.cn/post/7416560533439823910)
+- [13个Cursor神功能，比VSCode强大100倍](https://juejin.cn/post/7460322919504805951)
 
 #### 开源
 - [cursor.directory](https://cursor.directory/)
