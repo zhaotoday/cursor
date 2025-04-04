@@ -1,4 +1,5 @@
 #### 视频
+- [Cursor入门到精通AI编程教程](https://www.bilibili.com/video/BV18CZJYtEXD/)
 - [Cursor rules 让 AI 更懂你](https://www.bilibili.com/video/BV1p5ZbYuEzd/)
 - [2025最新Cursor入门到精通AI编程](https://www.bilibili.com/video/BV18CZJYtEXD)
 - [普通人也可以看的 AI 编程指南](https://www.bilibili.com/video/BV1yorUYWEGD)
