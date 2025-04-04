@@ -1,4 +1,5 @@
 #### 视频
+- [MCP是啥？技术原理是什么？](https://www.bilibili.com/video/BV1AnQNYxEsy/)
 - [MCP核心设计分析与代码实践](https://www.bilibili.com/video/BV1RFZdYYEY6/)
 - [Cursor入门到精通AI编程教程](https://www.bilibili.com/video/BV18CZJYtEXD/)
 - [Cursor rules 让 AI 更懂你](https://www.bilibili.com/video/BV1p5ZbYuEzd/)
