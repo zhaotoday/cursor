@@ -6,6 +6,7 @@
 - [Cursor从小白到专家](https://www.bilibili.com/video/BV1fX63YqEgT/)
 
 #### 文章
+- [Cursor MCP 推荐](https://juejin.cn/post/7493475737773555766)
 - [新版本 Cursor rules .mdc格式文件使用经验分享](https://juejin.cn/post/7484787785887989798)
 - [cursor 使用经验分享](https://juejin.cn/post/7440482461762601010)
 - [Cursor Rules 让 Cursor AI 代码生成更智能、更高效，效率再次飞升！](https://juejin.cn/post/7416560533439823910)
