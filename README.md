@@ -6,6 +6,7 @@
 - [Cursor从小白到专家](https://www.bilibili.com/video/BV1fX63YqEgT/)
 
 #### 文章
+- [Cursor 使用手册精简指南](https://juejin.cn/post/7501616374721953807)
 - [AI 编程效率翻倍！Cursor+MCP 组合的 5 大超能力解析](https://juejin.cn/post/7478403990146433024)
 - [【Cursor 进阶指南】老规则系统说拜拜!手把手带你玩转 .cursor/rules](https://juejin.cn/post/7471044704647053353)
 - [2025最全Cursor MCP实用指南：15个高效工具彻底提升AI编程体验【实战攻略】](https://juejin.cn/post/7488922553565184050)
