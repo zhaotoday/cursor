@@ -6,6 +6,7 @@
 - [Cursor从小白到专家](https://www.bilibili.com/video/BV1fX63YqEgT/)
 
 #### 文章
+- [Cursor+BrowserTools，让你前端调试效率翻倍](https://juejin.cn/post/7498926074056245285)
 - [20 分钟高效掌握 cursor](https://juejin.cn/post/7472597127488700452)
 - [Cursor 使用手册精简指南](https://juejin.cn/post/7501616374721953807)
 - [AI 编程效率翻倍！Cursor+MCP 组合的 5 大超能力解析](https://juejin.cn/post/7478403990146433024)
