@@ -20,6 +20,9 @@
 - [Cursor Rules 让 Cursor AI 代码生成更智能、更高效，效率再次飞升！](https://juejin.cn/post/7416560533439823910)
 - [13个Cursor神功能，比VSCode强大100倍](https://juejin.cn/post/7460322919504805951)
 
+#### 工具
+- [智能代码规范生成器](https://bytenote-mdc.streamlit.app/)
+
 #### 开源
 - [cursor.directory](https://cursor.directory/)
 - [cursorless](https://github.com/cursorless-dev/cursorless)
