@@ -25,6 +25,7 @@
 - [智能代码规范生成器](https://bytenote-mdc.streamlit.app/)
 
 #### 开源
+- [stagewise](https://github.com/stagewise-io/stagewise)
 - [cursor.directory](https://cursor.directory/)
 - [cursorless](https://github.com/cursorless-dev/cursorless)
 - [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
