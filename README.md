@@ -6,6 +6,7 @@
 - [Cursor从小白到专家](https://www.bilibili.com/video/BV1fX63YqEgT/)
 
 #### 文章
+- [Cursor Rules 开发实践指南](https://juejin.cn/post/7513072261945376794)
 - [stagewise：让AI与代码编辑器无缝连接](https://juejin.cn/post/7513196938000039973)
 - [我使用 Cursor 的一些场景与技巧](https://juejin.cn/post/7436410100272087051)
 - [AI驱动的大前端开发工作流](https://juejin.cn/post/7474100684374769698)
