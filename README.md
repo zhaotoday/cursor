@@ -28,6 +28,7 @@
 - [智能代码规范生成器](https://bytenote-mdc.streamlit.app/)
 
 #### 开源
+- [vibe-tools](https://github.com/eastlondoner/vibe-tools)
 - [stagewise](https://github.com/stagewise-io/stagewise)
 - [cursor.directory](https://cursor.directory/)
 - [cursorless](https://github.com/cursorless-dev/cursorless)
