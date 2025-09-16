@@ -30,6 +30,7 @@
 - [智能代码规范生成器](https://bytenote-mdc.streamlit.app/)
 
 #### 开源
+- [awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc)
 - [Cursor Rules 规则汇总](https://github.com/flyeric0212/cursor-rules)
 - [vibe-tools](https://github.com/eastlondoner/vibe-tools)
 - [stagewise](https://github.com/stagewise-io/stagewise)
