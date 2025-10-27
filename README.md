@@ -5,6 +5,9 @@
 - [普通人也可以看的 AI 编程指南](https://www.bilibili.com/video/BV1yorUYWEGD)
 - [Cursor从小白到专家](https://www.bilibili.com/video/BV1fX63YqEgT/)
 
+#### 网站
+- [Cursor中文社区](https://juejin.cn/column/7513012172789645350)
+
 #### 文章
 - [35岁大龄码农，用cursor独立做副业经历分享](https://juejin.cn/post/7491926630035390514)
 - [01_CursorRules_需求理解篇_requirement-understanding](https://juejin.cn/post/7540260340920762395)
