@@ -9,6 +9,7 @@
 - [Cursor中文社区](https://juejin.cn/column/7513012172789645350)
 
 #### 文章
+- [全网最全 Cursor 配置指南：从入门到高效工作流！建议收藏](https://juejin.cn/post/7515378780402565171)
 - [35岁大龄码农，用cursor独立做副业经历分享](https://juejin.cn/post/7491926630035390514)
 - [01_CursorRules_需求理解篇_requirement-understanding](https://juejin.cn/post/7540260340920762395)
 - [Cursor-用于大型项目](https://juejin.cn/post/7479368570759528458)
